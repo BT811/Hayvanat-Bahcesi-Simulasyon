@@ -61,11 +61,11 @@ Her iki projenin de kendi klasöründe bir `run_simulation.py` dosyası bulunmak
 
 ```bash
 # 1. Sıralı Yaklaşımı Çalıştırmak İçin:
-cd case-project
+cd simulation
 python run_simulation.py
 
 # 2. Eş Zamanlı ve Özerk Yaklaşımı Çalıştırmak İçin:
-cd case-project-autonomous
+cd autonomous-simulation
 python run_simulation.py
 ```
 
