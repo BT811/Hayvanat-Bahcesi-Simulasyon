@@ -1,0 +1,5 @@
+# Simulasyon Ayarları
+FIELD_WIDTH = 500
+FIELD_HEIGHT = 500
+MOVEMENT_STEPS = 1000
+ 
