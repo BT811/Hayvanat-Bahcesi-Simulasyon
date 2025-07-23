@@ -116,7 +116,7 @@ class AutonomousAnimalService:
         cooldown_period = 3.0  # 3 saniye cooldown
         
         if current_time - last_breed < cooldown_period:
-            return  # Henüz cooldown bitmedi
+            return  
         
         # Animals listesi lock
         with self._lock:
